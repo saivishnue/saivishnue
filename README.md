@@ -1,4 +1,4 @@
-# Hello, I am Sai Vishnu :wave:
+# Hello, I am Vishnu :wave:
 
 - A DevOps Enginner and MEAN Stack Developer :computer:
 - Cloud Guy :cloud:
