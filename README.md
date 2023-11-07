@@ -8,7 +8,7 @@
 
 </div>
 <h3 align="left"> About me:</h3>
-A Cloud Platform and a DevOps Engineer (Build Automation, Release engineering, Unix system administration, Configuration Management, Infrastructure Management, and Cloud Computing Technologies), including setting up a continuous delivery pipeline and architecting infrastructure deployments on AWS, Azure, GCP and MEAN Stack Developer.
+Cloud/DevOps/K8s Engineer, Cloud Certified DevOps Professional with proficient 5+ years of experience in various platforms such as Software Release, Continuous Integration/Continuous Deployment (CI/CD) processes, Containerization and Orchestration, Cloud platforms, i.e., AWS, Azure, and GCP, Linux/Unix System Administration, by following principles of Software Configuration Management, Waterfall, Agile, and Scrum.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,7 +35,7 @@ A Cloud Platform and a DevOps Engineer (Build Automation, Release engineering, U
 ```txt
 TypeScript   4 hrs 50 mins  ███████░░░░░░░░░░░░░░░░░░   25.17 %
 Shell        3 hr 20 mins   █████░░░░░░░░░░░░░░░░░░░░   19.99 %
-Terraform    8 hrs 10mins   ██████████████████████░░░   51.59 %
+Terraform    8 hrs 10mins   █████████████░░░░░░░░░░░░   51.59 %
 JavaScript   38 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
 Other        11 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
 ```
