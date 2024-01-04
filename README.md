@@ -8,7 +8,7 @@
 
 </div>
 <h3 align="left"> About me:</h3>
-Cloud/DevOps/K8s Engineer, Cloud Certified DevOps Professional with proficient 5+ years of experience in various platforms such as Software Release, Continuous Integration/Continuous Deployment (CI/CD) processes, Containerization and Orchestration, Cloud platforms, i.e., AWS, Azure, and GCP, Linux/Unix System Administration, by following principles of Software Configuration Management, Waterfall, Agile, and Scrum.
+Cloud/DevOps/K8s Engineer, Cloud Certified DevOps Professional in various platforms such as Software Release, Continuous Integration/Continuous Deployment (CI/CD) processes, Containerization and Orchestration, Cloud platforms, i.e., AWS, Azure, and GCP, Linux/Unix System Administration, by following principles of Software Configuration Management, Waterfall, Agile, and Scrum.
 
 
 <h3>Where to find me</h3>
